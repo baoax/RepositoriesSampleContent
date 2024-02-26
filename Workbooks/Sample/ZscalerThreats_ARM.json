@@ -31,7 +31,7 @@
   },
   "resources": [
     {
-      "type": "Microsoft.Insights/workbooks",
+      "type": "",
       "name": "[parameters('workbook-id')]",
       "location": "[resourceGroup().location]",
       "kind": "shared",
